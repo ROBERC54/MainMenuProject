@@ -9,6 +9,8 @@ namespace MainMenuProject
         public void Run()
         {
             Console.WriteLine("Yo from the APP");
+            new Main_Menu().Run();
+            Console.WriteLine("Yo from the APP");
         }
     }
 }
