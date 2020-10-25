@@ -6,6 +6,7 @@ namespace MainMenuProject
     {
         static void Main(string[] args)
         {
+            new APP().Run();
             Console.WriteLine("Hello World!");
         }
     }
