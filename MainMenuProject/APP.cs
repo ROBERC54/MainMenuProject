@@ -10,6 +10,7 @@ namespace MainMenuProject
         {
             Console.WriteLine("Yo from the APP");
             new Main_Menu().Run();
+            Console.Clear();
             Console.WriteLine("Yo from the APP");
         }
     }
